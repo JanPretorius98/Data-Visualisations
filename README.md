@@ -7,4 +7,7 @@ Data: Transcribed from the National Archives of South Africa; Death Notices for 
 
 ##  LGBT Happiness
 Scatterplot of happiness and LGBT-openness across the globe. Sizes of bubbles correlate with country GDP. 
-Data: Retrieved from World Bank, World Happiness report, and 
+Data: Retrieved from World Bank, World Happiness report, and Equaldex.
+
+##  Stream
+
